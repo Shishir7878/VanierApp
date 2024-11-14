@@ -1,5 +1,6 @@
 ﻿namespace VanierApp.Models
 {
+    // Added commit
     public class Student
     {
         public int StudentID { get; set; }
